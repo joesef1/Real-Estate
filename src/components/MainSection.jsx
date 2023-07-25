@@ -17,8 +17,9 @@ const MainSection = () => {
 
         
         {/*  */}
-        <div className=' w-full flex p-4 gap-4 border rounded-lg border-gray-100'>
-          <div> <img className=' w-[350px] rounded-xl ' src="https://images.dubizzle.com.lb/thumbnails/8526934-800x600.webp" alt="" /></div>
+        <div className='  w-full flex p-4 gap-4 border rounded-lg border-gray-100'>
+          <div> <img className=' w-[350px]  rounded-xl ' src="https://images.dubizzle.com.lb/thumbnails/8526934-800x600.webp" alt="" /></div>
+          {/* <div> <img className=' top-0 left-0 bottom-0   rounded-xl ' src="https://images.dubizzle.com.lb/thumbnails/8526934-800x600.webp" alt="" /></div> */}
 
           <div>
             
@@ -41,9 +42,9 @@ const MainSection = () => {
               </div>
             </div>
             {/*  */}
-            <p className=' text-lg mt-3'>HIGH FLOOR | CLOSE TO METRO | NICE VIEW</p>
+            <p className='  mt-3'>HIGH FLOOR | CLOSE TO METRO | NICE VIEW</p>
 
-            <p className='text-lg  inline-block mt-3' > <span className=' translate-y-[2px] inline-block'><GrLocation style={{fontSize:"18px" }}/></span>   Saba Tower 2, JLT Cluster Q, Jumeirah Lake Towers...</p>
+            <p className='  inline-block mt-3' > <span className=' translate-y-[2px] inline-block'><GrLocation style={{fontSize:"18px" }}/></span>   Saba Tower 2, JLT Cluster Q, Jum...</p>
               
               <div className='mt-8 flex gap-4 items-center'>
 

@@ -13,7 +13,7 @@ export default function Navbar() {
     <Disclosure as="nav" className=" py-[2px]  bg-black">
       {({ open }) => (
         <>
-          <div className="mx-auto xl:w-[80%] lg:w-[90%] px-2 sm:px-6 lg:px-8 ">
+          <div className="mx-auto xl:w-[96%] lg:w-[96%] px-2 sm:px-6 lg:px-8 ">
             <div className="relative flex h-16 items-center justify-between">
               
             
