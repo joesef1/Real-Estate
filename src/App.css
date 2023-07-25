@@ -7,3 +7,11 @@
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
+
+input:checked + svg {
+  display: block;
+}
+
+input:checked  {
+  border: none;
+}
